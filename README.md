@@ -1,6 +1,9 @@
 # mid-bootcamp-project
+
 ##Analysis of reviews about some of the vegetarian butcher products
+
 *[Amanda Brognoli Donini]*
+
 *[Data Analytics Bootcamp - Ironhack - November 2023]*
 
 ## Content
