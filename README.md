@@ -51,11 +51,17 @@ One of the requirements of this project was to have a limited ammount of data. S
 ## Links
 
 [Tableau dashboard](https://public.tableau.com/app/profile/amanda.donini/viz/Midbootcampproject_16992855080980/Painel2)
+
 [What the cluck reviews](https://www.abillion.com/products/the-vegetarian-butcher-what-the-cluck-10059146)
+
 [Crispy chickimicki burgers reviews](https://www.abillion.com/products/the-vegetarian-butcher-crispy-chickimicki-burger-10248651)
+
 [Little peckers reviews](https://www.abillion.com/products/the-vegetarian-butcher-little-peckers-10015655)
+
 [Little peckers reviews](https://www.amazon.co.uk/Vegetarian-Butcher-Little-Peckers-180g/product-reviews/B093HN9MS8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews)
+
 [Chickened out reviews](https://www.abillion.com/products/the-vegetarian-butcher-little-peckers-10015655)
+
 [Chickened out reviews](https://www.amazon.co.uk/Vegetarian-Butcher-Little-Peckers-180g/product-reviews/B093HN9MS8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews)
   
 
